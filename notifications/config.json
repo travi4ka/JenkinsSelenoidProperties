@@ -10,13 +10,8 @@
     "enableChart": true
   },
   "telegram": {
-    "token": "6067650461:AAEPRULG0pxRHSoJTer56MIouBttU3hQhM8",
-    "chat": "-1001521018110",
-    "replyTo": ""
-  },
-  "slack": {
-    "token": "xoxb-1687076169986-4740795293235-tKVUiaaj6EBeSJuZfqcrXXal",
-    "chat": "#qa_guru_17",
+    "token": "5707962023:AAE70VBvINZc8MMTjrFlBxh-R8CaJal855g",
+    "chat": "-1001837238326",
     "replyTo": ""
   }
 }
